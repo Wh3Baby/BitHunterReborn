@@ -109,9 +109,9 @@ Address: 1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2 Balance: 0.005 BTC PrivKey(hex): 3e8
 Этот проект предназначен исключительно для образовательных целей. **Не используйте его в незаконных или вредоносных целях.** Автор не несет ответственности за возможное нарушение законов.
 
 ## 🚀 Поддержать проект
--TON: UQCdINNjebB9Xe_CQSUEVQ44OTtRBQkh2jIOAcMX3e1qhIDb
--BTC: 1HahmL9iZQ1HwUp9iTqEuEbJT5HhRiiM81
--USDT TRC20: TG1MQa8ZpEJYwFaYSx2jNNotyq6e3g87in 
+- TON: UQCdINNjebB9Xe_CQSUEVQ44OTtRBQkh2jIOAcMX3e1qhIDb
+- BTC: 1HahmL9iZQ1HwUp9iTqEuEbJT5HhRiiM81
+- USDT TRC20: TG1MQa8ZpEJYwFaYSx2jNNotyq6e3g87in 
 ---
 ## ⚠️ Версия 1.2
 - Реализована механика парсинга ответа от API
